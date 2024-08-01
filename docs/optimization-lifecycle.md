@@ -7,7 +7,7 @@ When designing a widely used data structure where the optimal implementation is 
 
 **Functional Testing**: The resulting software is then tested to increase the probability that it doesn't have crippling defects.
 
-**Optimization (aka Tuning)**: After having completed the development of a correctly working application, the optimization stage begins,
+**Optimization** **(aka Tuning)**: After having completed the development of a correctly working application, the optimization stage begins,
  with the following sub-stages:
 
 1. Performance Testing: Commands with inadequate performance are detected. These are commands that, when processing typical data, require more resources (CPU time, storage space, etc.) than are available.
